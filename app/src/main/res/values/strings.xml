@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Appy</string>
+    <string name="active">Active:</string>
+    <string name="selected">Selected:</string>
+    <string name="text">Text:</string>
+    <string name="select_id">Select Id</string>
+    <string name="enter_text">Enter text</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+</resources>
